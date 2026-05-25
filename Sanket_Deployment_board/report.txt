@@ -1,0 +1,12 @@
+Plotted to 'C:\Users\Admin\OneDrive\Desktop\Communication-Subsystem-mainUPDATED\Communication-Subsystem-main\DevelopmentBoards\ADS_v7\Sanket Deployment board\Gerbers\sanket-F_Cu.gbr'.
+Plotted to 'C:\Users\Admin\OneDrive\Desktop\Communication-Subsystem-mainUPDATED\Communication-Subsystem-main\DevelopmentBoards\ADS_v7\Sanket Deployment board\Gerbers\sanket-B_Cu.gbr'.
+Plotted to 'C:\Users\Admin\OneDrive\Desktop\Communication-Subsystem-mainUPDATED\Communication-Subsystem-main\DevelopmentBoards\ADS_v7\Sanket Deployment board\Gerbers\sanket-F_Paste.gbr'.
+Plotted to 'C:\Users\Admin\OneDrive\Desktop\Communication-Subsystem-mainUPDATED\Communication-Subsystem-main\DevelopmentBoards\ADS_v7\Sanket Deployment board\Gerbers\sanket-B_Paste.gbr'.
+Plotted to 'C:\Users\Admin\OneDrive\Desktop\Communication-Subsystem-mainUPDATED\Communication-Subsystem-main\DevelopmentBoards\ADS_v7\Sanket Deployment board\Gerbers\sanket-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\Admin\OneDrive\Desktop\Communication-Subsystem-mainUPDATED\Communication-Subsystem-main\DevelopmentBoards\ADS_v7\Sanket Deployment board\Gerbers\sanket-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\Admin\OneDrive\Desktop\Communication-Subsystem-mainUPDATED\Communication-Subsystem-main\DevelopmentBoards\ADS_v7\Sanket Deployment board\Gerbers\sanket-F_Mask.gbr'.
+Plotted to 'C:\Users\Admin\OneDrive\Desktop\Communication-Subsystem-mainUPDATED\Communication-Subsystem-main\DevelopmentBoards\ADS_v7\Sanket Deployment board\Gerbers\sanket-B_Mask.gbr'.
+Plotted to 'C:\Users\Admin\OneDrive\Desktop\Communication-Subsystem-mainUPDATED\Communication-Subsystem-main\DevelopmentBoards\ADS_v7\Sanket Deployment board\Gerbers\sanket-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\Admin\OneDrive\Desktop\Communication-Subsystem-mainUPDATED\Communication-Subsystem-main\DevelopmentBoards\ADS_v7\Sanket Deployment board\Gerbers\sanket-job.gbrjob'.
+Info: Done.
+Info: Done.
