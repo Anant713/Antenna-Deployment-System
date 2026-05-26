@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.02,
-          "height": 1.5,
-          "width": 1.5
+          "drill": 0.0,
+          "height": 0.254,
+          "width": 0.6477
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -170,8 +170,8 @@
         {
           "td_onpthpad": true,
           "td_onroundshapesonly": false,
-          "td_onsmdpad": true,
-          "td_ontrackend": true,
+          "td_onsmdpad": false,
+          "td_ontrackend": false,
           "td_onvia": true
         }
       ],
@@ -217,7 +217,8 @@
         0.4,
         0.6,
         1.0,
-        1.5
+        1.5,
+        2.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -272,7 +273,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "6.0"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -973,16 +974,16 @@
       {
         "filename": "sanket.kicad_sch",
         "name": "sanket",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "31fcb508-c584-4994-bb57-b9a359552486"
       }
     ],
-    "used_designators": "",
+    "used_designators": "MOSFET1-2,U1",
     "variants": []
   },
   "sheets": [
     [
       "31fcb508-c584-4994-bb57-b9a359552486",
-      "Root"
+      "sanket"
     ]
   ],
   "text_variables": {},
