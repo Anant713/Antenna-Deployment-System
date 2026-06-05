@@ -977,7 +977,7 @@
         "uuid": "31fcb508-c584-4994-bb57-b9a359552486"
       }
     ],
-    "used_designators": "R9-12,MOSFET1-2,U1,TP3-4,C7",
+    "used_designators": "BLEEDER1,U1,R13",
     "variants": []
   },
   "sheets": [
