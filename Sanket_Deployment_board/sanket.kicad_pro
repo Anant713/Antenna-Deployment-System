@@ -977,7 +977,7 @@
         "uuid": "31fcb508-c584-4994-bb57-b9a359552486"
       }
     ],
-    "used_designators": "BLEEDER1,U1,R13",
+    "used_designators": "BLEEDER1,U1,R13,#PWR22,H1",
     "variants": []
   },
   "sheets": [
