@@ -103,7 +103,7 @@
 			)
 		)
 		(property "Value" "5021"
-			(at 2.925 2.65 90)
+			(at 2.28 1.64 90)
 			(layer "F.Fab")
 			(uuid "fc31c39c-5e5a-4649-8874-e07ad7294e8d")
 			(effects
@@ -2395,6 +2395,16 @@
 		)
 	)
 	(gr_line
+		(start 109.94 51.44)
+		(end 134.14 51.44)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "4b275784-4dba-46f6-b7cc-79cb5d1fe28c")
+	)
+	(gr_line
 		(start 109.94 54.65)
 		(end 109.94 51.44)
 		(stroke
@@ -2447,24 +2457,24 @@
 		(uuid "75b030d9-e131-4da9-90ad-18ab0638f093")
 	)
 	(gr_line
-		(start 136.14 51.44)
-		(end 109.94 51.44)
-		(stroke
-			(width 0.25)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "67473341-6027-415d-92c1-631f9521253e")
-	)
-	(gr_line
-		(start 136.14 55.85)
-		(end 136.14 51.44)
+		(start 134.14 55.85)
+		(end 134.14 51.44)
 		(stroke
 			(width 0.25)
 			(type solid)
 		)
 		(layer "Edge.Cuts")
 		(uuid "4fa51250-75dc-4542-b33d-cd569617cf53")
+	)
+	(gr_line
+		(start 134.14 55.85)
+		(end 136.14 55.85)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "ab49f791-eb2f-4440-93ea-6bbc82761528")
 	)
 	(gr_line
 		(start 148.94 55.85)
@@ -2487,7 +2497,7 @@
 		(uuid "6d57b8c0-c78d-4dac-8361-1312db77934a")
 	)
 	(gr_text "Sanket connecter"
-		(at 122.89 52.72 0)
+		(at 120.58 53.21 0)
 		(layer "F.SilkS")
 		(uuid "8eb10079-afd2-4289-b437-d11fe4e6deba")
 		(effects
